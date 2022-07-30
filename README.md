@@ -1,33 +1,35 @@
-# ![Group 1](https://user-images.githubusercontent.com/103120880/181903235-990213e2-56d0-44da-89fc-cb8e97ecae54.svg)
+### Project: LabeX
 
-### Link
-
-- https://better-pump.surge.sh/
+![LabeX](https://user-images.githubusercontent.com/103120880/179420842-35cbefad-66aa-49e0-89d4-8979cb25e053.png)
 
 ### Objective
 
-- Application made with the intention of reproducing the fundamentals of the social network Reddit . It contains features such as account creation, login, posts, upvote and downvote system.
+- Project made with the intention of applying the concepts of react-router-dom and the use of custom hooks.
 
-### What Works
-
-- Based on LabEddit [API](https://documenter.getpostman.com/view/9731983/U16eu7nT)
-- Like or Dislike system
-- JWT Token verification
-- Create your post and make your comments
-- Dark Mode included 
-- Pagination using a scroll system (just like Reddit)
-- Mobile First Application
+### What works
+- Based on Labex [API](https://documenter.getpostman.com/view/9133542/TzCTZkQr)
+- Login page, Trip creations and Trip applications
+- Admin Dashboard
+- Approve or Disapprove candidates system
+- Mobile responsive on Iphone 6/7/8
 
 ### Languages, frameworks and libraries used
 
-- React, JavaScript, HTML, Styled Components, Axios, React-Router-Dom and Figma.
+- React, JavaScript, HTML, Styled Components, Axios, Figma and React-router-dom
 
 ### What I learned
 
-- With this project, I was reinforced the concepts of using an API to guarantee user interactivity. Developing a Darkmode for the first time was something I really enjoyed as well.
+With this project I believe I have improved in the handling of projects with larger dimensions (more pages), the use of the useForm hook was and will be of extreme help from now on
+
+### Surge
+
+https://nifty-detail.surge.sh
+
+### Login:
+astrodev@gmail.com
+senha: 123456
 
 ### Images
 
-![image](https://user-images.githubusercontent.com/103120880/181904045-8beb9851-f1df-40fa-95aa-4047c77b482b.png)
-
-![image](https://user-images.githubusercontent.com/103120880/181903925-5b18c728-512b-42bf-8ca3-7d6b02af2364.png)
+![image](https://user-images.githubusercontent.com/103120880/179421889-be32cd1c-9dbc-43d9-92ef-06cc4e65edc7.png)
+![image](https://user-images.githubusercontent.com/103120880/179421940-d34cdcb9-41a3-4af9-b1dd-94362c0f1985.png)
