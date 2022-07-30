@@ -15,7 +15,7 @@
 
 ### Languages, frameworks and libraries used
 
-- React, JavaScript, HTML, Styled Components, Axios, Figma and React-router-dom
+- React, JavaScript, HTML, Styled Components, Material UI, Axios, Figma and React-router-dom
 
 ### What I learned
 
