@@ -1,7 +1,5 @@
 ### Project: FutureX
 
-![LabeX](https://user-images.githubusercontent.com/103120880/179420842-35cbefad-66aa-49e0-89d4-8979cb25e053.png)
-
 ### Objective
 
 - Project made with the intention of applying the concepts of react-router-dom and the use of custom hooks.
@@ -17,9 +15,6 @@
 
 - React, JavaScript, HTML, Styled Components, Material UI, Axios, Figma and React-router-dom
 
-### What I learned
-
-With this project I believe I have improved in the handling of projects with larger dimensions (more pages), the use of the useForm hook was and will be of extreme help from now on
 
 ### Surge
 
