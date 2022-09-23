@@ -1,4 +1,4 @@
-### Project: LabeX
+### Project: FutureX
 
 ![LabeX](https://user-images.githubusercontent.com/103120880/179420842-35cbefad-66aa-49e0-89d4-8979cb25e053.png)
 
